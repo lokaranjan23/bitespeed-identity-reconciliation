@@ -68,11 +68,13 @@ http://localhost:8080/identify
 
 ### Hosted URL
 
-(Add your Render deployed URL here after deployment)
 
-Example:
-https://your-app-name.onrender.com/identify
+url:
+https://bitespeed-identity-reconciliation-dd9y.onrender.com/identify
 
+Note:
+Database is hosted on Railway. The service is deployed on Render free tier.
+Service may take 30–60 seconds to wake up if inactive.
 ---
 
 ##  Request Format
